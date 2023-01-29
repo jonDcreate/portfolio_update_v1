@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid black;
+  border: 5px solid #add8e6;
   transition: all .7s;
 }
 header .profile-image:hover {
@@ -88,7 +88,7 @@ header .profile-image:hover {
   background-color: #222;
   color: #add8e6;
 }
-.card {
+.section {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -98,6 +98,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
 .card:hover {
   border-color: #ff99ff;
 }
